@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T21:35:56.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36 Edg/89.0.774.45" version="14.4.6" etag="EdurEEqNaGpnrLWvRW-H" type="github"><diagram id="zTVtyLnuThRkESSziKDu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-16T16:26:54.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36 Edg/89.0.774.45" etag="yto6v4AHQB5l_gTkcmoT" version="14.4.6" type="github">
+  <diagram id="zTVtyLnuThRkESSziKDu" name="Page-1">
+    <mxGraphModel dx="1422" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Gydwb1WKVgVWxJXD0N4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="220" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gydwb1WKVgVWxJXD0N4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gydwb1WKVgVWxJXD0N4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gydwb1WKVgVWxJXD0N4-4" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="440" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gydwb1WKVgVWxJXD0N4-5" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="460" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gydwb1WKVgVWxJXD0N4-6" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gydwb1WKVgVWxJXD0N4-7" value="Add to Cart" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="405" y="390" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gydwb1WKVgVWxJXD0N4-8" value="Unique URL for PSC regardless of Catalog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gydwb1WKVgVWxJXD0N4-9" value="&lt;h1&gt;BSSe - PSC Configuration&lt;/h1&gt;&lt;p&gt;1. New API to check BSSe or Non BSSe Context&amp;nbsp;&lt;/p&gt;&lt;p&gt;2. If it&#39;s BSSe UI will invoke new Mulesoft API to paint (Price Block)&lt;/p&gt;&lt;p&gt;3. For BSSe UI will be enhanced to send additional input data to Cart API.&lt;/p&gt;&lt;p&gt;4. For BSSe addons UI will have condition section to collect add on info.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="470" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
