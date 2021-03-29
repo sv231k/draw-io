@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-29T00:52:42.638Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="_QqnZfR3Gha6FHiyfx5F" version="14.2.9" type="github">
+<mxfile modified="2021-03-29T01:11:43.434Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="aGlooyllNR8yBRDCLyHt" version="14.2.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="4132" dy="2376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -821,6 +821,9 @@
         </mxCell>
         <mxCell id="HGZ8QuL3plnJwZv9XIM--92" value="Sales&lt;br&gt;Wireless&lt;br&gt;Account&lt;br&gt;Setup" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3380" y="1960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HGZ8QuL3plnJwZv9XIM--97" value="TLG" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#1ba1e2;shape=mxgraph.archimate3.application;appType=collab;archiType=square;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="3200" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
