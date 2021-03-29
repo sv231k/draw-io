@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T18:24:30.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dKTXnqrHtudVVYF_YOeo" version="14.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-29T18:25:31.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="YEcLfOsZWNJs97zay1bg" version="14.5.3" type="github" pages="5">
   <diagram id="-b_ouJ45pqM6rUxU9zAX" name="Page-1">
     <mxGraphModel dx="1896" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -74,6 +74,9 @@
         </mxCell>
         <mxCell id="7XaIGE3-WJyi392Nsf8O-20" value="UpperFunnel&lt;br&gt;SSR&lt;br&gt;App" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2010" y="744" width="90" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="QnEYUpXIbBy6Oot7uXzG-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7XaIGE3-WJyi392Nsf8O-21" target="QnEYUpXIbBy6Oot7uXzG-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7XaIGE3-WJyi392Nsf8O-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="860" width="1480" height="90" as="geometry" />
@@ -217,27 +220,6 @@
         <mxCell id="QnEYUpXIbBy6Oot7uXzG-36" value="Broadband&lt;br&gt;Order" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1823.5" y="1227" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QnEYUpXIbBy6Oot7uXzG-40" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1430" y="1000" width="540" height="107.42999999999995" as="geometry" />
-        </mxCell>
-        <mxCell id="QnEYUpXIbBy6Oot7uXzG-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QnEYUpXIbBy6Oot7uXzG-40">
-          <mxGeometry width="540" height="107.43" as="geometry" />
-        </mxCell>
-        <mxCell id="7XaIGE3-WJyi392Nsf8O-28" value="nativeapp-&lt;br&gt;sales-&lt;br&gt;orch" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="QnEYUpXIbBy6Oot7uXzG-40" vertex="1">
-          <mxGeometry x="46" y="19.430000000000064" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7XaIGE3-WJyi392Nsf8O-29" value="nativeapp-&lt;br&gt;cart-&lt;br&gt;orch" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="QnEYUpXIbBy6Oot7uXzG-40" vertex="1">
-          <mxGeometry x="135" y="19.430000000000064" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7XaIGE3-WJyi392Nsf8O-37" value="EPO&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="QnEYUpXIbBy6Oot7uXzG-40" vertex="1">
-          <mxGeometry x="223" y="19.430000000000064" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7XaIGE3-WJyi392Nsf8O-39" value="Account&lt;br&gt;Orchestration&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="QnEYUpXIbBy6Oot7uXzG-40" vertex="1">
-          <mxGeometry x="400" y="19.430000000000064" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QnEYUpXIbBy6Oot7uXzG-11" value="idp-&lt;br&gt;content-&lt;br&gt;orch" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="QnEYUpXIbBy6Oot7uXzG-40">
-          <mxGeometry x="312" y="19.430000000000064" width="70" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="QnEYUpXIbBy6Oot7uXzG-41" value="Service&lt;br&gt;Qual&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="1320" width="70" height="60" as="geometry" />
         </mxCell>
@@ -253,7 +235,7 @@
         <mxCell id="QnEYUpXIbBy6Oot7uXzG-45" value="Sales&lt;br&gt;Orch&lt;br&gt;(Mulesoft)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1699" y="875" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QnEYUpXIbBy6Oot7uXzG-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="QnEYUpXIbBy6Oot7uXzG-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2070" y="1000" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7XaIGE3-WJyi392Nsf8O-57" value="IDM&lt;br&gt;Login&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -545,6 +527,24 @@
         </mxCell>
         <mxCell id="7XaIGE3-WJyi392Nsf8O-49" value="Fulfillment&lt;br&gt;Options&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2280" y="1670" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QnEYUpXIbBy6Oot7uXzG-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1000" width="540" height="107.43" as="geometry" />
+        </mxCell>
+        <mxCell id="7XaIGE3-WJyi392Nsf8O-28" value="nativeapp-&lt;br&gt;sales-&lt;br&gt;orch" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1476" y="1019.4300000000001" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7XaIGE3-WJyi392Nsf8O-29" value="nativeapp-&lt;br&gt;cart-&lt;br&gt;orch" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1565" y="1019.4300000000001" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7XaIGE3-WJyi392Nsf8O-37" value="EPO&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1653" y="1019.4300000000001" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7XaIGE3-WJyi392Nsf8O-39" value="Account&lt;br&gt;Orchestration&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="1019.4300000000001" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QnEYUpXIbBy6Oot7uXzG-11" value="idp-&lt;br&gt;content-&lt;br&gt;orch" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1742" y="1019.4300000000001" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
