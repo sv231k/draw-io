@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-29T01:11:43.434Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="aGlooyllNR8yBRDCLyHt" version="14.2.9" type="github">
+<mxfile modified="2021-03-29T01:14:12.504Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="wd034TASltpDI8ZWaK3x" version="14.2.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="4132" dy="2376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -792,7 +792,7 @@
           <mxGeometry x="3371" y="3201" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="HGZ8QuL3plnJwZv9XIM--84" value="TLG" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#1ba1e2;shape=mxgraph.archimate3.application;appType=collab;archiType=square;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1779" y="3200" width="150" height="75" as="geometry" />
+          <mxGeometry x="2230" y="3201" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="HGZ8QuL3plnJwZv9XIM--85" value="CAPM" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2880" y="3201" width="150" height="75" as="geometry" />
@@ -815,7 +815,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3440" y="2210" />
-              <mxPoint x="1854" y="2210" />
+              <mxPoint x="2305" y="2210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -824,6 +824,9 @@
         </mxCell>
         <mxCell id="HGZ8QuL3plnJwZv9XIM--97" value="TLG" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#1ba1e2;shape=mxgraph.archimate3.application;appType=collab;archiType=square;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1590" y="3200" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="HGZ8QuL3plnJwZv9XIM--98" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.sheerid.com/wp-content/uploads/2019/11/SheerID-Logo-300x138.png;" vertex="1" parent="1">
+          <mxGeometry x="3960" y="3137" width="300" height="138" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
