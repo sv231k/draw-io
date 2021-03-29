@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-29T05:49:57.814Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="hm0LjtDZcMyHJVrRctQx" version="14.2.9" type="github">
+<mxfile modified="2021-03-29T05:54:22.559Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="29kVehAPc-hrOfsQHHXg" version="14.2.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="4242" dy="2376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="7000" pageHeight="7000" math="0" shadow="0">
       <root>
@@ -998,10 +998,10 @@
           <mxGeometry x="5960" y="3607.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="HGZ8QuL3plnJwZv9XIM--112" value="Halo.C" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#1ba1e2;shape=mxgraph.archimate3.application;appType=collab;archiType=square;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="800" y="3612" width="150" height="75" as="geometry" />
+          <mxGeometry x="993" y="3607.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="HGZ8QuL3plnJwZv9XIM--113" value="MPSYS" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#1ba1e2;shape=mxgraph.archimate3.application;appType=collab;archiType=square;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="980" y="3612" width="150" height="75" as="geometry" />
+          <mxGeometry x="1175" y="3611" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="HGZ8QuL3plnJwZv9XIM--114" value="RSP&lt;br&gt;(SIM Provisioning)" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="4380" y="3740" width="170" height="75" as="geometry" />
@@ -1150,7 +1150,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2570" y="3150" />
-              <mxPoint x="875" y="3150" />
+              <mxPoint x="1068" y="3150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1158,7 +1158,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2580" y="3170" />
-              <mxPoint x="1055" y="3170" />
+              <mxPoint x="1250" y="3170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1186,7 +1186,7 @@
           <mxGeometry x="5095" y="781" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HGZ8QuL3plnJwZv9XIM--183" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/cart-8-128.png;fillColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="1470" width="68" height="68" as="geometry" />
+          <mxGeometry x="3400" y="1452" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="HGZ8QuL3plnJwZv9XIM--191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="HGZ8QuL3plnJwZv9XIM--184">
           <mxGeometry relative="1" as="geometry">
@@ -1270,6 +1270,29 @@
         </mxCell>
         <mxCell id="HGZ8QuL3plnJwZv9XIM--206" value="FAN&lt;br&gt;Profile&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5780" y="1528.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HGZ8QuL3plnJwZv9XIM--210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="HGZ8QuL3plnJwZv9XIM--209" target="iA6fqYy1sC5ZSFI3Ka2X-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3150" y="1500" />
+              <mxPoint x="3335" y="1500" />
+              <mxPoint x="3335" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HGZ8QuL3plnJwZv9XIM--212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#005700;strokeWidth=3;fillColor=#008a00;" edge="1" parent="1" source="HGZ8QuL3plnJwZv9XIM--209" target="HGZ8QuL3plnJwZv9XIM--211">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3150" y="1780" />
+              <mxPoint x="2675" y="1780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HGZ8QuL3plnJwZv9XIM--209" value="CCV&lt;br&gt;Jobs&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3090" y="1526" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HGZ8QuL3plnJwZv9XIM--211" value="3rdParty&lt;br&gt;Feed&lt;br&gt;Inbox/Axiom" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#1ba1e2;shape=mxgraph.archimate3.application;appType=collab;archiType=square;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="3624.5" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
