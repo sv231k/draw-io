@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T18:21:30.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="KgHhZZTER5H3f7eWBV6h" version="14.5.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-06-02T18:23:25.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="hF9AMMUUAqwFwd1jjBfG" version="14.5.7" type="github" pages="11">
   <diagram id="yp0exc7G4AmTvpRiRImw" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1271,13 +1271,13 @@
         <mxCell id="GnANwcVB6lwHLKQNSpQW-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="GnANwcVB6lwHLKQNSpQW-1" source="GnANwcVB6lwHLKQNSpQW-44" target="GnANwcVB6lwHLKQNSpQW-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GnANwcVB6lwHLKQNSpQW-44" value="Checkout" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="GnANwcVB6lwHLKQNSpQW-1">
+        <mxCell id="GnANwcVB6lwHLKQNSpQW-44" value="Checkout" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="GnANwcVB6lwHLKQNSpQW-1">
           <mxGeometry x="1380" y="730" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnANwcVB6lwHLKQNSpQW-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.024;entryY=0.901;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GnANwcVB6lwHLKQNSpQW-1" source="GnANwcVB6lwHLKQNSpQW-46" target="GnANwcVB6lwHLKQNSpQW-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GnANwcVB6lwHLKQNSpQW-46" value="Account&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="GnANwcVB6lwHLKQNSpQW-1">
+        <mxCell id="GnANwcVB6lwHLKQNSpQW-46" value="Account&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="GnANwcVB6lwHLKQNSpQW-1">
           <mxGeometry x="1380" y="850" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnANwcVB6lwHLKQNSpQW-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GnANwcVB6lwHLKQNSpQW-1" source="GnANwcVB6lwHLKQNSpQW-48" target="GnANwcVB6lwHLKQNSpQW-49">
@@ -1333,6 +1333,21 @@
         </mxCell>
         <mxCell id="GnANwcVB6lwHLKQNSpQW-68" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;IDP - SoD (CaaS/ECSaaS)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;" vertex="1" parent="GnANwcVB6lwHLKQNSpQW-1">
           <mxGeometry x="1120" y="100" width="305" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GnANwcVB6lwHLKQNSpQW-76" value="Products" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="GnANwcVB6lwHLKQNSpQW-1">
+          <mxGeometry x="1380" y="320" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnANwcVB6lwHLKQNSpQW-77" value="Offers" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="GnANwcVB6lwHLKQNSpQW-1">
+          <mxGeometry x="1380" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnANwcVB6lwHLKQNSpQW-78" value="CartMs" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="GnANwcVB6lwHLKQNSpQW-1">
+          <mxGeometry x="1380" y="490" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnANwcVB6lwHLKQNSpQW-79" value="Digital&lt;br&gt;Payments" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="GnANwcVB6lwHLKQNSpQW-1">
+          <mxGeometry x="1380" y="570" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnANwcVB6lwHLKQNSpQW-80" value="Card&lt;br&gt;Payments" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="GnANwcVB6lwHLKQNSpQW-1">
+          <mxGeometry x="1380" y="650" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
