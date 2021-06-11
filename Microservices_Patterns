@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T15:01:08.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="BOZavv0wK_0PN5y3qYGl" version="14.7.6" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-06-11T18:06:03.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="UXcgqkPpinA6da6HO1fe" version="14.7.6" type="github" pages="15">
   <diagram id="yp0exc7G4AmTvpRiRImw" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1793,6 +1793,35 @@
         </mxCell>
         <mxCell id="Jo2aZGUkHDmMAn_2vhmq-20" value="CT&lt;br&gt;AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="Jo2aZGUkHDmMAn_2vhmq-1" vertex="1">
           <mxGeometry x="910" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6CfggF724B46ZSa_yKjk" name="Page-15">
+    <mxGraphModel dx="1422" dy="705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="2500" math="0" shadow="0">
+      <root>
+        <mxCell id="l0YorHGyzZQ69GmmX4gC-0" />
+        <mxCell id="l0YorHGyzZQ69GmmX4gC-1" parent="l0YorHGyzZQ69GmmX4gC-0" />
+        <mxCell id="l0YorHGyzZQ69GmmX4gC-2" value="IDP" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="l0YorHGyzZQ69GmmX4gC-1">
+          <mxGeometry x="160" y="80" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l0YorHGyzZQ69GmmX4gC-3" value="Salesforce" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="l0YorHGyzZQ69GmmX4gC-1">
+          <mxGeometry x="540" y="80" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l0YorHGyzZQ69GmmX4gC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="l0YorHGyzZQ69GmmX4gC-1">
+          <mxGeometry x="160" y="150" width="380" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="l0YorHGyzZQ69GmmX4gC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="l0YorHGyzZQ69GmmX4gC-1">
+          <mxGeometry x="540" y="150" width="430" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="l0YorHGyzZQ69GmmX4gC-6" value="&lt;ul style=&quot;font-size: 16px&quot;&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Legacy API&lt;/b&gt; Interactions will not be disturbed. It will be transparently moved to Business Domain APIs once it&#39;s created.&lt;/li&gt;&lt;li&gt;For Common API Use Cases (Example: Customer Accounts Search) IDP teams will create new TMF/Aggregated TMF+Legacy APIs. SF teams need to switch to these APIs.&lt;/li&gt;&lt;li&gt;BSSe Interactions&amp;nbsp;&lt;/li&gt;&lt;li&gt;IDP will provide TMF APIs for Commerce Functions and Account Management APIs.&lt;/li&gt;&lt;li&gt;IDP will provide business process APIs&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l0YorHGyzZQ69GmmX4gC-1">
+          <mxGeometry x="442" y="138" width="534" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="l0YorHGyzZQ69GmmX4gC-7" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="l0YorHGyzZQ69GmmX4gC-1">
+          <mxGeometry x="850" y="85" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l0YorHGyzZQ69GmmX4gC-8" value="&lt;ul style=&quot;font-size: 16px&quot;&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;For Web Layer, Legacy API Interactions will not be disturbed. It will be transparently moved to Business Domain APIs once it&#39;s created.&lt;/li&gt;&lt;li&gt;Create TMF APIs for Commerce Functions and Services Management.&lt;/li&gt;&lt;li&gt;Identify Business process APIs and publish the specification.&lt;/li&gt;&lt;li&gt;Create Southbound APIs in Mulesoft for enterprise Layer interactions.&lt;/li&gt;&lt;li&gt;Domains which doesn&#39;t fit in the TMF Open APIs, IDP will create it&#39;s own business domains.&lt;/li&gt;&lt;li&gt;Omnichannel ContextAware microservices.&lt;/li&gt;&lt;li&gt;Identify the domains that can be moved TMF spec and create roadmap.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l0YorHGyzZQ69GmmX4gC-1">
+          <mxGeometry x="63" y="156" width="477" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
