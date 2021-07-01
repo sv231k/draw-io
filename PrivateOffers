@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T14:51:23.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="lZyhm2RmhADeWnr3AeDC" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T14:51:51.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="oPrbM5_YdNrf1excU7ie" version="14.8.1" type="github">
   <diagram id="WJZ4cXyJjqBduV_gT_XY" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
           <mxGeometry x="672" y="44" width="415" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L8ksplOmVWYPkCizZ8Mn-29" value="&lt;p style=&quot;margin: 10px 0px 0px ; padding: 0px ; color: rgb(23 , 43 , 77) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 13.8px ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;Problem Statement:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 10px 0px 0px ; padding: 0px ; color: rgb(23 , 43 , 77) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 13.8px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;As of today, there is no ability to offer segmented and personalized offers to our customers. The offer tray displays all offer types to all customer segments which is not only confusing but also a very ambiguous experience. The end goal is to leverage the Personalization team&#39;s machine learning framework for predictive modeling and offer prescriptive guidance to our customers and help them select the best offer.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="633" width="540" height="151" as="geometry" />
+          <mxGeometry x="682" y="613" width="540" height="151" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
